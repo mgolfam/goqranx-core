@@ -5,6 +5,6 @@ import (
 	"math/rand"
 )
 
-func printNumber() {
+func PrintRandInt() {
 	fmt.Println(rand.Int())
 }
